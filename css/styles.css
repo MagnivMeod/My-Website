@@ -1,0 +1,109 @@
+body {
+  background-color: #F5F5F5;
+  font-family: 'Cabin', sans-serif;
+}
+
+h1 {
+  font-family: 'Anton', sans-serif;
+}
+
+h2, h3 {
+  font-family: 'Fjalla One', sans-serif;
+}
+
+/* Headings */
+
+.big-heading {
+  font-size: 4.375rem;
+  line-height: 2;
+}
+
+.container-heading {
+  font-size: 3.125rem;
+}
+
+.skill-heading {
+  font-size: 1.875rem;
+}
+
+/* Navbar */
+
+nav .container-fluid {
+  padding: 0 7%;
+}
+
+/* Containers */
+
+.container-fluid {
+  padding: 10% 7%;
+  text-align: center;
+}
+
+.colored-container {
+  background-color: #B1D0E0;
+}
+
+/* Images */
+
+.profile-picture {
+  border-radius: 100%;
+  width: 12.5rem;
+  margin: 1.5rem;
+}
+
+.review .profile-picture {
+  margin-top: 2.5rem;
+  width: 6.25rem;
+}
+
+.skill-image {
+  width: 7.5rem;
+  margin: 6.25rem auto 3rem;
+}
+
+/* Text */
+
+.text {
+  margin: auto;
+  width: 22.5rem;
+  font-size: 1.25rem;
+  line-height: 1.5;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.review-text {
+  margin: auto;
+  width: 30rem;
+}
+
+.copyrights {
+  font-size: 0.9375rem;
+  color: #fff;
+}
+
+/* Icons */
+
+.footer-icon {
+  color: #fff;
+  margin: 20px 10px;
+}
+
+/* Carousel */
+
+.carousel {
+  margin-top: 6.25rem;
+}
+
+/* Cards */
+
+.card {
+  margin: auto;
+  width: 400px;
+}
+
+.card-row {
+  margin: 0.625rem 0.3125rem 0.9375rem;
+}
